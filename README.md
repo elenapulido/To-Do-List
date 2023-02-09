@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+#To-do List
+
+##Project by Elena Pulido Alvaré
+
+#REQUIREMENTS
+
+    Use Ágiles methodology - Scrum
+    Jira - User Story and tasks
+    Responsive
+
+##GOALS
+
+The objective is to create a to-do list that allows us to create, edit and delete a task list.
+
+##Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
