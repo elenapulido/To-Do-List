@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+
+
+}
+
+body {
+  overflow: hidden;
+}
+
+.App {
+  height: 100vh;
+  position: absolute;
+}
+
+.Img {
+  margin: 0%;
+  padding: 0%;
+
+}
+
+.Img img {
+  
+  width: 100vw;
+}
+
+.Monday {
+  transform: translate(26vw, -70vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Hachi Maru Pop;
+  font-size: (5px + 2vmin);
+  color: black;
+  width: 20vw;
+  height: 10vh;
+
+
+}
+
+.Tuesday {
+  transform: translate(5vw, -57vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Hachi Maru Pop;
+  font-size: (5px + 2vmin);
+  color: black;
+  max-width: 20vw;
+  max-height: 10vh;
+
+}
+
+.Wednesday {
+  transform: translate(25vw, -53vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Hachi Maru Pop;
+  font-size: (5px + 2vmin);
+  color: black;
+  max-width: 20vw;
+  max-height: 10vh;
+}
+
+.Thursday {
+  transform: translate(54vw, -112vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Hachi Maru Pop;
+  font-size: (5px + 2vmin);
+  color: black;
+  width: 20vw;
+  height: 20vh;
+}
+
+.Friday {
+  transform: translate(74vw, -102vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Hachi Maru Pop;
+  font-size: (5px + 2vmin);
+  color: black;
+  max-width: 20vw;
+  max-height: 10vh;
+}
+
+.Saturday {
+  transform: translate(55vw, -99vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Hachi Maru Pop;
+  font-size: (5px + 2vmin);
+  color: black;
+  max-width: 15vw;
+  max-height: 10vh;
+}
+
+.Sunday {
+  transform: translate(5vw, -155vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Hachi Maru Pop;
+  font-size: (5px + 2vmin);
+  color: black;
+  max-width: 20vw;
+  max-height: 10vh;
+}
+
+form input {
+  height: 3vh;
+  border-radius: 5%;
+  display: flex;
+  vertical-align: auto;
+  background-color: transparent;
+}
+
+form button {
+  cursor: pointer;
+  text-decoration: none;
+  margin: 1vh 0;
+  border: solid 1px transparent;
+  border-radius: 8%;
+  color: #f1ece3;
+  background-color: rgb(234, 199, 211);
+  height: 3vh;
+  width: 10vh;
+}
+
+h3 {
+  margin: 0;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.btn-delete {
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  border: solid 1px transparent;
+  color: black;
+  background-color: transparent;
+  height: 3vh;
+  width: 1vw;
+}
+
+.btn{
+  background-color: rgb(234, 199, 211);
+  cursor: pointer;
+  padding: 0, 20 px;
+  transition: all 0.5;
+  margin-right: 10px;
+  border: transparent;
+  border-radius: 10px;
+}
+
+.btn-edit{
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  border: solid 1px transparent;
+  color: black;
+  background-color: transparent;
+  height: 1vh;
+  width: 1vh;
+  padding-left: 1vh;
+
+}
