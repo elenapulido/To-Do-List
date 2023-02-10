@@ -13,7 +13,7 @@ The objective is to create a to-do list that allows us to create, edit and delet
     Make sure you have an internet connection.
     Modify the tasks at will.
 
-## CARACTERISTICS
+## CHARACTERISTICS
 
     Default and customizable list.
     Attractive and easy to use design.
@@ -24,6 +24,10 @@ The objective is to create a to-do list that allows us to create, edit and delet
     CSS
     JavaScript
     React
+    
+  ##URL
+  
+  bullet-journal-to-do.netlify.app
 
 
 <img width="1728" alt="imagen" src="https://user-images.githubusercontent.com/119506074/217842304-25698efc-d380-49e3-b625-1c63f3b92a1e.png">
