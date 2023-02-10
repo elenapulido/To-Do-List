@@ -27,7 +27,7 @@ The objective is to create a to-do list that allows us to create, edit and delet
     
   ##URL
   
-  bullet-journal-to-do.netlify.app
+  https://bullet-journal-to-do.netlify.app/
 
 
 <img width="1728" alt="imagen" src="https://user-images.githubusercontent.com/119506074/217842304-25698efc-d380-49e3-b625-1c63f3b92a1e.png">
