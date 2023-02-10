@@ -25,7 +25,7 @@ The objective is to create a to-do list that allows us to create, edit and delet
     JavaScript
     React
     
-  ##URL
+  ## URL
   
   https://bullet-journal-to-do.netlify.app/
 
